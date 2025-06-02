@@ -3,15 +3,14 @@
 
 🔹 **Expertise:**  
 - Building responsive, cross-platform apps with **Flutter** (Widgets, Animations)  
-- State management (**Provider, Riverpod, Bloc**)  
-- **REST API & Firebase** integration (Auth, Firestore, Cloud Functions)  
-- Clean, maintainable code with **SOLID principles** and documentation  
-- **Git/GitHub** for collaborative development  
+- State management (**BLoC, GetX, Provider**)  
+- **REST API & Firebase/Supabase** integration  
+- Clean Architecture & SOLID principles  
 
 🔹 **Passionate About:**  
-- Crafting intuitive **UI/UX designs** in Flutter  
-- Exploring advanced **animations & state management**  
-- Contributing to **open-source projects**  
+- Crafting intuitive **UI/UX designs**  
+- Implementing **real-time features**  
+- **Performance optimization**  
 
 ---
 
@@ -22,60 +21,65 @@
 
 ---
 
-## 💻 Tech Stack:
-### **Languages & Frameworks**  
-![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)  
-![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)  
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
+## 🚀 Featured Projects
 
-### **Backend & Databases**  
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)  
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)  
+### 1. [Evinty App]- Event Platform
+🎯 **Event discovery/creation with clean architecture**  
+✔ **BLoC (Cubit)** state management  
+✔ RESTful API integration  
+✔ Scalable code structure  
 
-### **Tools & Utilities**  
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white)  
+### 2. [T Store]- E-commerce App
+🛒 **Feature-rich shopping experience**  
+✔ Firebase Batch Operations for bulk uploads  
+✔ **GetX** state management  
+✔ Custom UI components  
+
+### 3. [Fruits Hub] - Arabic Fruit Store
+🍓 **Arabic-language focused marketplace**  
+✔ **Supabase backend** (Auth + Realtime DB)  
+✔ Clean Architecture implementation  
+✔ RTL UI support  
+
+### 4. [Chatty App]- Real-Time Chat
+💬 **Group messaging with presence indicators**  
+✔ Firebase **Firestore + Auth**  
+✔ Online/offline status  
+✔ Emoji support & auto-scrolling  
 
 ---
 
-## 🚀 Latest Projects
-### 1. [Project Name](https://github.com/yourusername/project-repo)
-📌 **Description:** A brief 1-2 line description of what the project does  
-🛠 **Tech Stack:** Flutter, Firebase, Provider  
-🌟 **Features:**  
-- Feature 1 (e.g., "Real-time chat using Firestore")  
-- Feature 2 (e.g., "Custom animations with Rive")  
+## 💻 Tech Stack:
+### **Frontend**  
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white) 
+![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)  
 
-### 2. [Project Name](https://github.com/yourusername/project-repo)
-📌 **Description:** Another short project description  
-🛠 **Tech Stack:** Dart, Supabase, Bloc  
-🌟 **Features:**  
-- Feature 1  
-- Feature 2  
+### **Backend**  
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black) 
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white)  
 
-*(Add 2-3 of your best projects with this format)*
+### **State Management**  
+![BLoC](https://img.shields.io/badge/BLoC-02569B?logo=flutter&logoColor=white) 
+![GetX](https://img.shields.io/badge/GetX-008000?logo=dart&logoColor=white)  
 
 ---
 
 ## 📊 GitHub Stats:
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=karemAlsayed&theme=dark&hide_border=true&show_icons=true&count_private=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karemAlsayed&theme=dark&hide_border=true&layout=compact&langs_count=6) |
-|--------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ![Overview](https://github-readme-stats.vercel.app/api?username=karemAlsayed&theme=dark&show_icons=true&hide_border=true) | ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karemAlsayed&theme=dark&layout=compact&hide_border=true) |
+|-------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|
 
-![GitHub Streak](https://streak-stats.demolab.com?user=karemAlsayed&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)  
-
----
-
-## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=karemAlsayed&theme=onedark&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)
+![Streak](https://streak-stats.demolab.com?user=karemAlsayed&theme=dark&hide_border=true)
 
 ---
 
-### 🔥 Dev Quote  
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)  
+## 🏆 Achievements
+![Trophies](https://github-profile-trophy.vercel.app/?username=karemAlsayed&theme=onedark&no-frame=true&margin-w=15)
 
 ---
 
-✨ **Proudly crafted with [Markdown](https://guides.github.com/features/mastering-markdown/)**
+### 💡 Development Philosophy  
+> *"Clean code is not just efficient - it's a form of documentation"*  
+
+---
+
+✨ **Let's build something amazing together!**  
