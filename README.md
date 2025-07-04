@@ -1,5 +1,5 @@
 # 💫 About Me:
-**Flutter Developer | UI/UX Enthusiast | Open-Source Contributor**  
+**Flutter Developer | IT Support | Open-Source Contributor**  
 
 🔹 **Expertise:**  
 - Building responsive, cross-platform apps with **Flutter** (Widgets, Animations)  
